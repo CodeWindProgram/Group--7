@@ -1,5 +1,6 @@
 # Group -7
-## email - anishyekhande@gmail.com
+# email - anishyekhande@gmail.com
+# username - anishyekhande
 # Problem Statement
 ## Task: Create different schemas required for the test platform database
 
